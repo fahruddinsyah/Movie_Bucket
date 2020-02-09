@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Bucket</string>
+
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+
+    <string name="title_movie">Name Movie</string>
+    <string name="desc_movie">Desc Movie</string>
+    <string name="release_date">Release Date</string>
+
+    <string name="favorite_mov">Favorite</string>
+    <string name="unfavorite_mov">Delete Favorite</string>
+
+    <string name="succes_add_favorite">Success add to Favorite</string>
+    <string name="succes_unfavorite">Success to delete favorable</string>
+
+    <string name="header_movie">Discover Your Favorite Movie in Here!</string>
+    <string name="header_tvshow">Discover Your Favorite Tv Show in Here!</string>
+    <string name="header_settings">Settings \n Your Apps</string>
+    <string name="header_favorite">Have You \n  Watched it?</string>
+
+    <string name="upcoming">Release Today</string>
+    <string name="discover">Popular</string>
+    <string name="on_air_tvshow">On The Air</string>
+
+    <string name="notification">NOTIFICATION</string>
+    <string name="language">LANGUAGE</string>
+
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="remainder_to_app">Reminder for return to app</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="reminder_today">Reminder showing the movie that released today</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_local_language">Change localization language</string>
+</resources>

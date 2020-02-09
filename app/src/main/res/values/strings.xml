@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Movie Bucket</string>
+
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="search">Cari</string>
+    <string name="favorite">Favorit</string>
+    <string name="setting">Pengaturan</string>
+
+    <string name="title_movie">Nama Movie</string>
+    <string name="desc_movie">Deskripsi Movie</string>
+    <string name="release_date">Tanggal Rilis</string>
+
+    <string name="favorite_mov">Favorit</string>
+    <string name="unfavorite_mov">Hapus Favorit</string>
+
+    <string name="succes_add_favorite">Berhasil Tambahkan Favorit</string>
+    <string name="succes_unfavorite">Berhasil Menghapus Favorit</string>
+
+    <string name="header_movie">Temukan Film Kesukaanmu Disini!</string>
+    <string name="header_tvshow">Temukan Acara Tv Kesukaanmu Disini!</string>
+    <string name="header_settings">Pengaturan \n Aplikasi</string>
+    <string name="header_favorite">Sudahkah \n Anda Menontonnya?</string>
+
+    <string name="upcoming">Rilis Hari Ini</string>
+    <string name="discover">Populer</string>
+    <string name="on_air_tvshow">Disiarkan</string>
+
+    <string name="notification">NOTIFIKASI</string>
+    <string name="language">BAHASA</string>
+
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="remainder_to_app">Pengingat kembali ke aplikasi</string>
+    <string name="release_reminder">Pengingat Rilis Film</string>
+    <string name="reminder_today">Pengingat melihat rilis film hari ini</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="change_local_language">Ubah bahasa lokal aplikasi anda</string>
+</resources>

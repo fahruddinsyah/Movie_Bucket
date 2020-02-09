@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#34E413</color>
+
+    <color name="bg_black">#000</color>
+    <color name="blue_active">#03a9f4</color>
+    <color name="purple_active">#9c27b0</color>
+    <color name="green_active">#4caf50</color>
+    <color name="yellow_active">#ffeb3b</color>
+    <color name="red_active">#FF3B3B</color>
+
+    <color name="default_inactive">#78909c</color>
+    <color name="white">#fff</color>
+</resources>

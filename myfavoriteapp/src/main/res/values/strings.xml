@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFavoriteApp</string>
+
+    <string name="header_favorite">Have You \n  Watched it?</string>
+
+    <string name="title_movie">Nama Movie</string>
+    <string name="desc_movie">Deskripsi Movie</string>
+    <string name="release_date">Tanggal Rilis</string>
+
+    <string name="favorite_mov">Favorit</string>
+    <string name="unfavorite_mov">Hapus Favorit</string>
+
+    <string name="succes_add_favorite">Berhasil Tambahkan Favorit</string>
+    <string name="succes_unfavorite">Berhasil Menghapus Favorit</string>
+
+</resources>
